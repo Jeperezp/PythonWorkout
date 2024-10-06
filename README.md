@@ -20,8 +20,8 @@
 
 Este repositorio está estructurado para ayudar a los estudiantes de Python a pasar de un nivel **básico** a uno **intermedio**. Aquí encontrarás:
 
-- **18 Ejercicios Básicos de Python**: Cubren temas fundamentales como tipos de datos, bucles, condicionales, funciones y manejo básico de archivos.
-- **5 Ejercicios Intermedios de Python**: Estos ejercicios abordan temas más complejos, como clases, módulos, manejo de errores y el uso de librerías como `datetime` y `collections`.
+- **Ejercicios Básicos de Python**: Cubren temas fundamentales como tipos de datos, bucles, condicionales, funciones y manejo básico de archivos.
+- **Ejercicios Intermedios de Python**: Estos ejercicios abordan temas más complejos, como clases, módulos, manejo de errores y el uso de librerías como `datetime` y `collections`.
 
 Cada ejercicio incluye instrucciones claras y está diseñado como una herramienta de aprendizaje y un reto para practicar la programación en Python.
 
