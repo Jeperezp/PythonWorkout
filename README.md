@@ -54,18 +54,4 @@ Los 5 ejercicios intermedios profundizan en los siguientes temas:
 4. Módulos y paquetes
 5. Estructuras de datos avanzadas (por ejemplo, el módulo `collections`)
 
-Cada archivo de ejercicio se encuentra en el directorio `/intermediate/`.
 
-## Cómo Usar
-
-### Requisitos Previos
-
-Asegúrate de tener instalado **Python 3.x** en tu sistema. Puedes descargarlo desde [aquí](https://www.python.org/downloads/).
-
-### Ejecutar los Ejercicios
-
-1. Clona este repositorio en tu máquina local:
-
-   ```bash
-   git clone https://github.com/tuusuario/nombre-del-repo.git
-   cd nombre-del-repo
