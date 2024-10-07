@@ -10,11 +10,7 @@
 - [Ejercicios](#ejercicios)
   - [Ejercicios Básicos de Python](#ejercicios-básicos-de-python)
   - [Ejercicios Intermedios de Python](#ejercicios-intermedios-de-python)
-- [Cómo Usar](#cómo-usar)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+
 
 ## Descripción General
 
@@ -29,7 +25,7 @@ Cada ejercicio incluye instrucciones claras y está diseñado como una herramien
 
 ### Ejercicios Básicos de Python
 
-Los 18 ejercicios básicos cubren los siguientes temas:
+Los ejercicios básicos cubren los siguientes temas:
 
 1. Variables y tipos de datos
 2. Entrada/salida básica
@@ -46,12 +42,12 @@ Cada archivo de ejercicio se encuentra en el directorio `/basics/`.
 
 ### Ejercicios Intermedios de Python
 
-Los 5 ejercicios intermedios profundizan en los siguientes temas:
+Los ejercicios intermedios profundizan en los siguientes temas:
 
 1. Programación Orientada a Objetos (POO)
 2. Manejo de excepciones
 3. Uso de librerías externas
 4. Módulos y paquetes
-5. Estructuras de datos avanzadas (por ejemplo, el módulo `collections`)
+5. Conexiones a Bases de Datos
 
 
